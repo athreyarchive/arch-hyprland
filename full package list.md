@@ -8,18 +8,18 @@ BASE (during base system install)
 - network manager: networkmanager
 
 - intel cpu drivers: intel-ucode
-- nvidia gpu drivers: nvidia nvidia-utils
+- nvidia gpu drivers: nvidia/nvidia-open/mesa nvidia-utils libva-nvidia-driver
 
 DESKTOP ENVIRONMENT (window-manager & system utilities)
 - aur helper: paru
-- window manager: hyprland xdg-desktop-portal-hyprland qt5-wayland qt6-wayland
+- window manager: hyprland xdg-desktop-portal-hyprland egl-wayland qt5-wayland qt6-wayland 
 - login manager: sddm
 - app launcher: wofi
 - taskbar: waybar
 - terminal: alacritty/kitty
 - file manager: thunar gvfs thunar-volman
 - image viewer:
-- video/audio player: vlc
+- video/audio player: mpv
 - screenshot tool: grim+slurp/hyprshot
 - screen recorder: obs-studio
 - clipboard manager: copyq
@@ -31,7 +31,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - media control: 
 - authentication daemon: polkit-kde-agent
 - notification daemon: mako
-- idle daemon:
+- idle daemon: hypridle
 
 PERSONAL APPLICATIONS
 - cli stuff: ytdlp, cbonsai, cmatrix, cowsay
