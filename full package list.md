@@ -26,8 +26,9 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 
 - firewall: 
 - system monitors: fastfetch, btop, fancontrol-gui
-- audio: pipewire wireplumber pipewire-audio pipewire-jack pipewire-alsa
-- brightness: brightnessctl
+- audio control: pipewire wireplumber pipewire-pulse pipewire-audio pipewire-jack pipewire-alsa
+- brightness control: brightnessctl
+- media control: 
 - authentication daemon: polkit-kde-agent
 - notification daemon: mako
 - idle daemon:
