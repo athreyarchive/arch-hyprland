@@ -42,7 +42,7 @@ PERSONAL APPLICATIONS
 - cloud storage: pcloud-drive
 - file sharing: localsend-bin
 - vpn: protonvpn
-- torrenter: qtbittorent
+- torrenter: qbittorent
 - video editor: davinci-resolve
 - audio editor: audacity
 - games: steam, heroic-games-launcher-bin, prismlauncher
