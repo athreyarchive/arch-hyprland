@@ -1,0 +1,20 @@
+general {
+  layout = master
+  allow_tearing = false
+  
+  gaps_in = 
+  gaps_out =
+  
+  border_size = 1
+  col.active_border = rgba(9717ffcc)
+}
+
+decoration {
+  rounding = 5
+
+  drop_shadow = true
+  shadow_range = 
+  shadow_render_power = 
+  col.shadow = 
+
+}
