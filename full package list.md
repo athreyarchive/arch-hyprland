@@ -33,6 +33,10 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - notification daemon: mako
 - idle daemon: hypridle
 
+UI
+- font:
+- color schemes: pywall16
+
 PERSONAL APPLICATIONS
 - cli stuff: ytdlp, cbonsai, cmatrix, cowsay
 - wallpapers: swww+waypaper
