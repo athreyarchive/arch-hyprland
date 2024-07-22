@@ -22,7 +22,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - video/audio player: vlc
 - screenshot tool: grim+slurp/hyprshot
 - screen recorder: obs-studio
-- clipboard manager:
+- clipboard manager: copyq
 
 - firewall: 
 - system monitors: fastfetch, btop, fancontrol-gui
