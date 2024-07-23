@@ -34,8 +34,9 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - idle daemon: hypridle
 
 UI
-- font:
 - color schemes: pywall16
+- cursor: 
+- font:
 
 PERSONAL APPLICATIONS
 - cli stuff: ytdlp, cbonsai, cmatrix, cowsay
@@ -51,4 +52,4 @@ PERSONAL APPLICATIONS
 - audio editor: audacity
 - 3d creation: blender
 - games: steam, heroic-games-launcher-bin, prismlauncher
-- peripheral manager: 
+- peripheral manager: piper libratbag
