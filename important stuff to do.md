@@ -6,3 +6,7 @@ enable important things
 
 
 - set neovim as text editor in thunar
+
+- additional nvidia hyprland settings
+
+- davinci resolve and blender tweaks
