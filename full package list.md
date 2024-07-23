@@ -16,7 +16,8 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - app launcher: wofi
 - taskbar: waybar
 - terminal: alacritty/kitty
-- file manager: thunar gvfs thunar-volman
+- terminal multiplex: tmux
+- file manager: ranger/nnn/thunar gvfs thunar-volman
 - image viewer:
 - video/audio player: mpv
 - screenshot tool: grim+slurp/hyprshot
