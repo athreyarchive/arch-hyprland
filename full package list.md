@@ -8,7 +8,7 @@ BASE (during base system install)
 - network manager: networkmanager
 
 - intel cpu drivers: intel-ucode
-- nvidia gpu drivers: nvidia/nvidia-open/mesa nvidia-utils libva-nvidia-driver
+- nvidia gpu drivers: nvidia/nvidia-open/mesa nvidia-utils opencl-nvidia libva-nvidia-driver
 
 DESKTOP ENVIRONMENT (window-manager & system utilities)
 - aur helper: paru
