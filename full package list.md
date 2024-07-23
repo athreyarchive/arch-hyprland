@@ -6,7 +6,6 @@ BASE (during base system install)
 - sudo: sudo
 - git: git
 - network manager: networkmanager
-
 - intel cpu drivers: intel-ucode
 - nvidia gpu drivers: nvidia/nvidia-open/mesa nvidia-utils opencl-nvidia cuda libva-nvidia-driver
 
