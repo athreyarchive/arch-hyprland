@@ -23,7 +23,6 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - screenshot tool: grim+slurp/hyprshot
 - screen recorder: obs-studio
 - clipboard manager: copyq
-
 - firewall: 
 - system monitors: fastfetch, btop, fancontrol-gui
 - audio control: pipewire wireplumber pipewire-pulse pipewire-audio pipewire-jack pipewire-alsa
