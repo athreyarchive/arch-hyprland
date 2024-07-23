@@ -47,7 +47,8 @@ PERSONAL APPLICATIONS
 - file sharing: localsend-bin
 - vpn: protonvpn
 - torrenter: qbittorent
-- video editor: davinci-resolve
+- video editor/color grading: davinci-resolve
 - audio editor: audacity
+- 3d creation: blender
 - games: steam, heroic-games-launcher-bin, prismlauncher
 - peripheral manager: 
