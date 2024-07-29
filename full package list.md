@@ -38,7 +38,7 @@ UI
 - font:
 
 PERSONAL APPLICATIONS
-- cli stuff: ytdlp, cbonsai, cmatrix, cowsay
+- cli stuff: ytdlp, cbonsai, cmatrix, cowsay, lavat
 - wallpapers: swww+waypaper
 - browsers: floorp, chromium
 - music player: 
