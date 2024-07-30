@@ -15,7 +15,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - login manager: sddm
 - app launcher: wofi
 - taskbar: waybar
-- terminal: alacritty/kitty
+- terminal: kitty
 - terminal multiplex: tmux
 - file manager: ranger/nnn/thunar gvfs thunar-volman
 - image viewer:
@@ -50,5 +50,5 @@ PERSONAL APPLICATIONS
 - video editor/color grading: davinci-resolve
 - audio editor: audacity
 - 3d creation: blender
-- games: steam, heroic-games-launcher-bin, prismlauncher
+- games: steam, heroic-games-launcher-bin, prismlauncher, 
 - peripheral manager: piper libratbag
