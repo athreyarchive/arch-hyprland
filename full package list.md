@@ -25,7 +25,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - clipboard manager: copyq
 - firewall: 
 - system monitors: fastfetch, btop, fancontrol-gui
-- audio control: pipewire pipewire-alsa wireplumber pavucontrol
+- audio control: pipewire pipewire-alsa pipewire-pulse wireplumber pavucontrol
 - brightness control: brightnessctl
 - media control: 
 - authentication daemon: polkit-kde-agent
