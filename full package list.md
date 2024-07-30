@@ -2,7 +2,7 @@ BASE (during base system install)
 - kernel: base linux linux-firmware
 - shell: bash/zsh
 - bootloader: grub efibootmgr
-- text-editor: nano/neovim
+- text-editor: neovim
 - sudo: sudo
 - git: git
 - network manager: networkmanager
@@ -17,7 +17,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - taskbar: waybar
 - terminal: kitty/foot/wezterm
 - terminal multiplex: tmux
-- file manager: ranger/nnn/thunar gvfs thunar-volman
+- file manager: yazi/ranger/nnn/thunar gvfs thunar-volman
 - image viewer:
 - video/audio player: mpv
 - screenshot tool: grim+slurp/hyprshot
