@@ -15,7 +15,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - login manager: sddm
 - app launcher: wofi
 - taskbar: waybar
-- terminal: kitty
+- terminal: kitty/foot/wezterm
 - terminal multiplex: tmux
 - file manager: ranger/nnn/thunar gvfs thunar-volman
 - image viewer:
