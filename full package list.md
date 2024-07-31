@@ -50,5 +50,5 @@ PERSONAL APPLICATIONS
 - video editor/color grading: davinci-resolve
 - audio editor: audacity
 - 3d creation: blender
-- games: steam, heroic-games-launcher-bin, prismlauncher, 
+- games: steam, heroic-games-launcher-bin, prismlauncher, 3ds emulator
 - peripheral manager: piper libratbag
