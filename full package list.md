@@ -31,6 +31,7 @@ DESKTOP ENVIRONMENT (window-manager & system utilities)
 - authentication daemon: polkit-kde-agent
 - notification daemon: mako
 - idle daemon: hypridle
+- wallpaper daemon: swww+waypaper
 
 UI
 - color schemes: pywall16
@@ -39,9 +40,7 @@ UI
 
 PERSONAL APPLICATIONS
 - cli stuff: ytdlp, cbonsai, cmatrix, cowsay, lavat
-- wallpapers: swww+waypaper
 - browsers: floorp, chromium
--   extensions: bitwarden, ublock origin    
 - music player: 
 - notes: obsidian
 - cloud storage: pcloud-drive
