@@ -41,6 +41,7 @@ PERSONAL APPLICATIONS
 - cli stuff: ytdlp, cbonsai, cmatrix, cowsay, lavat
 - wallpapers: swww+waypaper
 - browsers: floorp, chromium
+-   extensions: bitwarden, ublock origin    
 - music player: 
 - notes: obsidian
 - cloud storage: pcloud-drive
